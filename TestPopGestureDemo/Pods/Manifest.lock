@@ -1,0 +1,12 @@
+PODS:
+  - TOWebViewController (2.2.3):
+    - TOWebViewController/Core (= 2.2.3)
+  - TOWebViewController/Core (2.2.3)
+
+DEPENDENCIES:
+  - TOWebViewController
+
+SPEC CHECKSUMS:
+  TOWebViewController: ca47b9aeefe66acb3353d197dc8270338540b116
+
+COCOAPODS: 0.39.0
